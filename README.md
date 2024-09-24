@@ -1,2 +1,2 @@
 # delta-demo
-A demo project related to web development
+A demo project which is related to web development
